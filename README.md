@@ -25,3 +25,5 @@ Theme documentation available [here](https://colorlib.com/wp/themes/shapely/).
 ## License
 
 This theme is licensed under GPLv3. You can feel free to modify it as long as you keep the original copyright information.
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d5ca5f17be3f4edeb39d5764bf24a243)](https://www.codacy.com/gh/stevenmmw/shapely/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=stevenmmw/shapely&amp;utm_campaign=Badge_Grade)
